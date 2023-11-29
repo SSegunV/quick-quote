@@ -1,4 +1,4 @@
 # quick-quote
-Automation for work task 
+Automation for Microsoft Word data transfer from Microsoft Excel 
 
 Sample word and excel documents as originals bound by non disclosure work contract
